@@ -1,4 +1,5 @@
 Planteamiento del Ejercicio. 
+
 ![cplus part1](https://github.com/jorengar/hackerRank-Ejercicios/assets/20663593/368a2913-fda9-420b-8ca8-0719da42b882)
 
 ![cplus part2](https://github.com/jorengar/hackerRank-Ejercicios/assets/20663593/fae29355-54dd-4bda-91f5-0f6c0312e272)
